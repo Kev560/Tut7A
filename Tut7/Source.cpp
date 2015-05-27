@@ -99,7 +99,7 @@ int main()
 
 	cout << "\n" << endl;
 
-	//quick(arr, 0, l - 1);
+	quick(arr, 0, l - 1);
 	for (int k = 0; k < l; k++)
 	{
 		cout << arr[k] << "\n";
