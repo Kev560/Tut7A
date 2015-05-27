@@ -39,7 +39,7 @@ void bub(T arr[], T len)
 }
 
 template <class T>
-void quick(T arr[], T left, T right)
+void quick(T arr[], T left, T right)					//QuickSort Algorythm
 {
 	int i = left;
 	int j = right;
